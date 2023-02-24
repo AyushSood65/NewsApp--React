@@ -16,3 +16,7 @@
   visibility: visible;
   opacity: 1;
 }
+#heading {
+  margin: 15px 0px;
+  font-family: cursive;
+}
