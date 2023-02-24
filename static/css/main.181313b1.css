@@ -1,0 +1,2 @@
+#spinner{height:100vh;left:0;position:fixed;top:0;transition:opacity .2s;width:100vw;z-index:9999}#spinner img{left:50%;position:absolute;top:50%;-webkit-transform:translate(-50%);transform:translate(-50%)}#spinner.show{opacity:1;visibility:visible}#heading{color:#bd4e4e;font-family:cursive;margin:15px 0}
+/*# sourceMappingURL=main.181313b1.css.map*/
