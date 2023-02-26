@@ -1,4 +1,4 @@
-#spinner {
+/* #spinner {
   position: fixed;
   top: 0; left: 0; z-index: 9999;
   width: 100vw; height: 100vh;
@@ -6,7 +6,7 @@
 }
  
 /* (B) CENTER LOADING SPINNER */
-#spinner img {
+/* #spinner img {
   position: absolute;
   top: 50%; left: 50%;
   transform: translate(-50%);
@@ -15,7 +15,7 @@
 #spinner.show {
   visibility: visible;
   opacity: 1;
-}
+} */ */
 #heading {
   margin: 15px 0px;
   font-family: cursive;
